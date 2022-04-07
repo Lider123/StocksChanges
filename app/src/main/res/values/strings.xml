@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StockChanges</string>
+
+    <string name="main_menu_refresh_title">Refresh</string>
+</resources>
